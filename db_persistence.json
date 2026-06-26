@@ -1,0 +1,124 @@
+{
+  "reports": [],
+  "wards": [],
+  "leaderboard": [
+    {
+      "username": "citizen",
+      "email": "citizen@civic.com",
+      "password": "password",
+      "role": "citizen",
+      "ward": "Ward I - Central Corridor",
+      "xp": 450,
+      "level": 1,
+      "rank": 2,
+      "wardRank": 1,
+      "badges": [
+        {
+          "id": "b1",
+          "name": "Pioneer Reporter",
+          "icon": "Award",
+          "description": "Amongst the first to join and file incident reports."
+        }
+      ]
+    },
+    {
+      "username": "authority",
+      "email": "authority@muni.gov",
+      "password": "password",
+      "role": "authority",
+      "ward": "Municipal Control HQ",
+      "xp": 1200,
+      "level": 2,
+      "rank": 1,
+      "wardRank": 1,
+      "badges": [
+        {
+          "id": "b2",
+          "name": "Grand Dispatcher",
+          "icon": "Shield",
+          "description": "Command room authorization confirmed."
+        }
+      ]
+    },
+    {
+      "username": "agency",
+      "email": "agency@workforce.org",
+      "password": "password",
+      "role": "agency",
+      "ward": "Ward I - Central Corridor",
+      "xp": 850,
+      "level": 1,
+      "rank": 3,
+      "wardRank": 2,
+      "badges": [
+        {
+          "id": "b3",
+          "name": "Action Hero",
+          "icon": "Wrench",
+          "description": "Quick response resolution agent."
+        }
+      ],
+      "tasksCompletedCount": 4,
+      "averageCompletionTimeHrs": 2.5,
+      "workersCount": 8
+    }
+  ],
+  "globalStats": {
+    "totalSubmitted": 0,
+    "totalResolved": 0,
+    "credibilityThresholdMet": 0,
+    "averageSlaResolutionTimeHrs": 4,
+    "activeWorkCrews": 0,
+    "totalXPPremiumGranted": 0
+  },
+  "auditTrail": [],
+  "announcements": [
+    {
+      "ward": "Ward I - Central Corridor",
+      "text": "Notice: Scheduled electrical maintenance along Central Corridor on Friday morning. Please expect brief power transitions."
+    },
+    {
+      "ward": "Ward II - Suburban West",
+      "text": "Monsoon Preparedness: Clean-up drive scheduled for Saturday. Volunteers meet at Kothrud Fire Station."
+    },
+    {
+      "ward": "All Regions",
+      "text": "Global Advisory: General monsoon emergency guidelines are active. Report localized waterlogging immediately."
+    }
+  ],
+  "hotspots": [
+    {
+      "id": "h1",
+      "category": "Waterlogging / Flooding Risk",
+      "latitude": 18.515,
+      "longitude": 73.815,
+      "address": "Kothrud Depot Junction, Ward II",
+      "incidentCount": 14,
+      "riskScore": 92,
+      "trend": "increasing",
+      "recommendedAction": "Clear secondary storm drainage inlets and install temporary water pumps near Bavdhan Foothills."
+    },
+    {
+      "id": "h2",
+      "category": "Pothole Density Cluster",
+      "latitude": 18.522,
+      "longitude": 73.855,
+      "address": "Deccan Gymkhana Main Crossing, Ward I",
+      "incidentCount": 9,
+      "riskScore": 78,
+      "trend": "stable",
+      "recommendedAction": "Deploy high-friction bituminous resurfacing layer prior to expected seasonal heavy precipitation index."
+    },
+    {
+      "id": "h3",
+      "category": "Garbage Accumulation Spill",
+      "latitude": 18.528,
+      "longitude": 73.852,
+      "address": "Central Market Boulevard, Ward I",
+      "incidentCount": 18,
+      "riskScore": 65,
+      "trend": "decreasing",
+      "recommendedAction": "Install high-capacity sensor-driven compactors and schedule automated bi-daily sanitation sweeps."
+    }
+  ]
+}
