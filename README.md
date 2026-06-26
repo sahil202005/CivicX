@@ -206,9 +206,9 @@ Authorities assign verified complaints to registered contractors or workforce ag
 - SLA Monitoring
 - Live Status Updates
 
-## Screenshot
 
-![Assign Workforce](images/workforce-assignment.png)
+
+![Assign Workforce](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(429).png)
 
 ---
 
@@ -223,9 +223,6 @@ They can
 - Upload Completion Proof
 - Mark Issue Resolved
 
-## Screenshot
-
-![Workforce Dashboard](images/workforce-dashboard.png)
 
 ---
 
