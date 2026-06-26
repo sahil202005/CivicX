@@ -1,6 +1,6 @@
 # 🚀 CivicX – AI Powered Smart Civic Issue Reporting & Management Platform
 
-![Banner](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(417).png)
+
 
 ## 📌 Overview
 
@@ -83,7 +83,7 @@ Citizens create an account and securely log in using OTP verification.
 
 ## Login
 
-![Citizen Login](images/citizen-login.png)
+![Citizen Login](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(417).png)
 
 ## OTP Verification
 
@@ -103,7 +103,7 @@ Features include
 - Community Feed
 - Profile & XP
 
-![Citizen Dashboard](images/citizen-dashboard.png)
+![Citizen Dashboard](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(419)%20-%20Copy.png)
 
 ---
 
