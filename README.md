@@ -191,7 +191,7 @@ Examples
 
 ## Screenshot
 
-![Announcement Portal]https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(423)%20-%20Copy.png
+![Announcement Portal](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(423)%20-%20Copy.png)
 
 ---
 
@@ -238,7 +238,7 @@ Features
 - Community Rank
 
 
-![Profile]https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(422).png
+![Profile](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(422).png)
 
 ---
 
