@@ -87,7 +87,7 @@ Citizens create an account and securely log in using OTP verification.
 
 ## OTP Verification
 
-![OTP Verification](images/otp.png)
+![OTP Verification](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(418).png)
 
 ---
 
