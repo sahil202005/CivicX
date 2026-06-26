@@ -64,9 +64,9 @@ The Municipal Authority defines service boundaries using the interactive GIS map
 - Ward Grade Configuration
 - SLA Configuration
 
-## Screenshot
 
-![Authority Ward Creation](images/authority-ward-creation.png)
+
+![Authority Ward Creation][(images/authority-ward-creation.png)](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(426)%20-%20Copy.png)
 
 ---
 
