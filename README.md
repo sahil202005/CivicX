@@ -1,6 +1,6 @@
 # 🚀 CivicX – AI Powered Smart Civic Issue Reporting & Management Platform
 
-![Banner](images/banner.png)
+![Banner]([images/banner.png](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(417).png))
 
 ## 📌 Overview
 
