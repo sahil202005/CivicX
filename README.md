@@ -122,7 +122,7 @@ Citizens report issues using AI-assisted forms.
 
 ## Screenshot
 
-![Issue Registration](images/report-issue.png)
+![Issue Registration](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(420)%20-%20Copy.png)
 
 ---
 
