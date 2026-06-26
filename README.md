@@ -237,9 +237,8 @@ Features
 - Leaderboards
 - Community Rank
 
-## Screenshot
 
-![Profile](images/profile.png)
+![Profile]https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(423)%20-%20Copy.png
 
 ---
 
