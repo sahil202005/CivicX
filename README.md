@@ -141,9 +141,8 @@ Gemini AI automatically
 - Generates description
 - Creates report draft
 
-## Screenshot
 
-![Gemini Assistant](images/ai-chatbot.png)
+![Gemini Assistant](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(424)%20-%20Copy.png)
 
 ---
 
