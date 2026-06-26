@@ -173,9 +173,8 @@ They can
 - Publish Announcements
 - Dispatch Workforce
 
-## Screenshot
 
-![Authority Dashboard](images/authority-dashboard.png)
+![Authority Dashboard](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(427)%20-%20Copy.png)
 
 ---
 
