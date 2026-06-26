@@ -142,7 +142,6 @@ Gemini AI automatically
 - Creates report draft
 
 
-![Gemini Assistant](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(424)%20-%20Copy.png)
 
 ---
 
@@ -157,9 +156,8 @@ Features
 - AI Summary
 - Status Tracking
 
-## Screenshot
 
-![Community Feed](images/community-feed.png)
+![Community Feed](https://github.com/sahil202005/CivicX/blob/main/Screenshot%20(421)%20-%20Copy.png)
 
 ---
 
